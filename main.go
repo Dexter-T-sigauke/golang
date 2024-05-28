@@ -28,5 +28,6 @@ func main() {
 	fmt.Println(len(mySlice), "and the values are ", mySlice)
 	fmt.Println(mySlicedArray)
 	fmt.Println(slice_name)
+	//GO CODE BY DEXTER
 
 }
